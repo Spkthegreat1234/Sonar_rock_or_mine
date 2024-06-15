@@ -77,8 +77,7 @@ To run the project:
 
 ## 📬 Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact sachinveyron@gmail.com.
+
 
 ---
-
-Feel free to modify the content as per your specific requirements or add any additional sections that might be necessary for your project.
