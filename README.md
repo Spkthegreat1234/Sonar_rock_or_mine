@@ -1,8 +1,3 @@
-Based on the content of the provided Jupyter Notebook, I will create a `README.md` file. The notebook appears to deal with rock and mine detection using machine learning techniques, specifically using logistic regression.
-
-Here is the `README.md` file:
-
----
 
 # 📊 Rock vs. Mine Detection
 
